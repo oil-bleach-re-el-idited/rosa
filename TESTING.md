@@ -1,5 +1,5 @@
 # ROSA Testing
-
+ 
 ## Introduction
 This document provides an overview of the testing architecture for ROSA. It covers the categories of tests applied across the software development lifecycle and describes the automated execution of these tests via GitHub Actions.
 
