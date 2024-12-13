@@ -1,5 +1,5 @@
 name: Publish jpl-rosa to PyPI
-
+blank_issues
 on:
   release:
     types: [created]
